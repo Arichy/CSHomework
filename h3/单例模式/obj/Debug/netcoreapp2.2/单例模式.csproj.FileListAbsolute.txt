@@ -1,0 +1,11 @@
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/bin/Debug/netcoreapp2.2/单例模式.deps.json
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/bin/Debug/netcoreapp2.2/单例模式.runtimeconfig.json
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/bin/Debug/netcoreapp2.2/单例模式.runtimeconfig.dev.json
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/bin/Debug/netcoreapp2.2/单例模式.dll
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/bin/Debug/netcoreapp2.2/单例模式.pdb
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.csprojAssemblyReference.cache
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.csproj.CoreCompileInputs.cache
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.AssemblyInfoInputs.cache
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.AssemblyInfo.cs
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.dll
+/Users/Arichy/Desktop/CSHomework/h3/单例模式/obj/Debug/netcoreapp2.2/单例模式.pdb
