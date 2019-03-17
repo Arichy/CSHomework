@@ -1,0 +1,11 @@
+/Users/Arichy/Desktop/CSHomework/h4/Clock/bin/Debug/netcoreapp2.2/Clock.deps.json
+/Users/Arichy/Desktop/CSHomework/h4/Clock/bin/Debug/netcoreapp2.2/Clock.runtimeconfig.json
+/Users/Arichy/Desktop/CSHomework/h4/Clock/bin/Debug/netcoreapp2.2/Clock.runtimeconfig.dev.json
+/Users/Arichy/Desktop/CSHomework/h4/Clock/bin/Debug/netcoreapp2.2/Clock.dll
+/Users/Arichy/Desktop/CSHomework/h4/Clock/bin/Debug/netcoreapp2.2/Clock.pdb
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.csprojAssemblyReference.cache
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.csproj.CoreCompileInputs.cache
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.AssemblyInfoInputs.cache
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.AssemblyInfo.cs
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.dll
+/Users/Arichy/Desktop/CSHomework/h4/Clock/obj/Debug/netcoreapp2.2/Clock.pdb

@@ -1,0 +1,11 @@
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/bin/Debug/netcoreapp2.2/OrderManage.deps.json
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/bin/Debug/netcoreapp2.2/OrderManage.runtimeconfig.json
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/bin/Debug/netcoreapp2.2/OrderManage.runtimeconfig.dev.json
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/bin/Debug/netcoreapp2.2/OrderManage.dll
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/bin/Debug/netcoreapp2.2/OrderManage.pdb
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.csprojAssemblyReference.cache
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.csproj.CoreCompileInputs.cache
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.AssemblyInfoInputs.cache
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.AssemblyInfo.cs
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.dll
+/Users/Arichy/Desktop/CSHomework/h4/OrderManage/obj/Debug/netcoreapp2.2/OrderManage.pdb
