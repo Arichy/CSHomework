@@ -1,0 +1,11 @@
+/Users/Arichy/Desktop/CSHomework/h6/bin/Debug/netcoreapp2.2/h6.deps.json
+/Users/Arichy/Desktop/CSHomework/h6/bin/Debug/netcoreapp2.2/h6.runtimeconfig.json
+/Users/Arichy/Desktop/CSHomework/h6/bin/Debug/netcoreapp2.2/h6.runtimeconfig.dev.json
+/Users/Arichy/Desktop/CSHomework/h6/bin/Debug/netcoreapp2.2/h6.dll
+/Users/Arichy/Desktop/CSHomework/h6/bin/Debug/netcoreapp2.2/h6.pdb
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.csprojAssemblyReference.cache
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.csproj.CoreCompileInputs.cache
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.AssemblyInfoInputs.cache
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.AssemblyInfo.cs
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.dll
+/Users/Arichy/Desktop/CSHomework/h6/obj/Debug/netcoreapp2.2/h6.pdb

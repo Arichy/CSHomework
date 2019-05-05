@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<orderlist>
+  <order>
+    <orderid>1</orderid>
+    <customer>小明</customer>
+    <itemlist>
+      <item>
+        <name>苹果</name>
+        <num>13</num>
+      </item>
+      <item>
+        <name>草莓</name>
+        <num>13</num>
+      </item>
+    </itemlist>
+  </order>
+</orderlist>
